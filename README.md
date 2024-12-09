@@ -3,10 +3,10 @@
 This analysis utilizes Logistic Regression to predict heart attacks 🩺❤ and examine significant factors related to heart health. The model is able to predict heart attacks with an overall accuracy of 85%, trained on around 240 heart attack cases.
 
 Key Metrics Summary:
-Overall Accuracy: 85%
-Precision (Heart Disease): 0.871
-Recall (Heart Disease): 0.844
-F1-Score (Heart Disease): 0.857 (1.0 is max and 100% accuracy, 0 is min)
+- Overall Accuracy: 85%
+- Precision (Heart Disease): 0.871
+- Recall (Heart Disease): 0.844
+- F1-Score (Heart Disease): 0.857 (1.0 is max and 100% accuracy, 0 is min)
 
 ![Confusion Matrix](assets/confusion_matrix_heatmap.png) 
 
