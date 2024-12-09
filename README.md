@@ -37,7 +37,11 @@ This data is synthetic and should not be used for medical research; the purpose 
 
 Source: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
 
-[About the data](assets/heart_profile.html)
+---
+
+[More about the data](assets/heart_profile.html)
+
+---
 
 - **Age**: Age of the patient
 - **Sex**: Sex of the patient
